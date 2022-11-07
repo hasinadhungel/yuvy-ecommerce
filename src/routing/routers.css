@@ -1,0 +1,12 @@
+.router-container {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+.router-sidebar {
+  width: 20%;
+  height: 60%;
+}
+.router-pages {
+  width: 70%;
+}
