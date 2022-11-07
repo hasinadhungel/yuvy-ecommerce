@@ -38,7 +38,7 @@ const Routers = () => {
         <div className="router-sidebar">
           <StickyNavbar />
         </div>
-          {/* stickynavbar routing */}
+          {/* stickynavbar routing ends */}
         <div className="router-pages">
           <Routes>
             <Route path="/" element={<Home />} />
