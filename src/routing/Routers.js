@@ -34,6 +34,7 @@ const Routers = () => {
       <Subheader />
       <Breadcrumb />
       <div className="router-container">
+        {/* stickynavbar routing */}
         <div className="router-sidebar">
           <StickyNavbar />
         </div>
